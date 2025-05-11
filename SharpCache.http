@@ -1,0 +1,6 @@
+@SharpCache_HostAddress = http://localhost:5092
+
+GET {{SharpCache_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
