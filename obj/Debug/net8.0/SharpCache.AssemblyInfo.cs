@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SharpCache")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+502795c319736eabb00c0064617675e687143371")]
 [assembly: System.Reflection.AssemblyProductAttribute("SharpCache")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SharpCache")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

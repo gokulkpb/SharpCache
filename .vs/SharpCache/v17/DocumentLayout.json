@@ -3,36 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Gokul_Balachandran\\Documents\\projects\\personal\\SharpCache\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8CFD78A4-A458-4107-9DC7-A2E31B96804D}|SharpCache.csproj|c:\\users\\gokul_balachandran\\documents\\projects\\personal\\sharpcache\\data\\wal.log||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{8CFD78A4-A458-4107-9DC7-A2E31B96804D}|SharpCache.csproj|solutionrelative:data\\wal.log||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{8CFD78A4-A458-4107-9DC7-A2E31B96804D}|SharpCache.csproj|c:\\users\\gokul_balachandran\\documents\\projects\\personal\\sharpcache\\models\\commandresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CFD78A4-A458-4107-9DC7-A2E31B96804D}|SharpCache.csproj|solutionrelative:models\\commandresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8CFD78A4-A458-4107-9DC7-A2E31B96804D}|SharpCache.csproj|c:\\users\\gokul_balachandran\\documents\\projects\\personal\\sharpcache\\persistance\\writeaheadlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CFD78A4-A458-4107-9DC7-A2E31B96804D}|SharpCache.csproj|solutionrelative:persistance\\writeaheadlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8CFD78A4-A458-4107-9DC7-A2E31B96804D}|SharpCache.csproj|c:\\users\\gokul_balachandran\\documents\\projects\\personal\\sharpcache\\utilities\\hashinghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CFD78A4-A458-4107-9DC7-A2E31B96804D}|SharpCache.csproj|solutionrelative:utilities\\hashinghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8CFD78A4-A458-4107-9DC7-A2E31B96804D}|SharpCache.csproj|c:\\users\\gokul_balachandran\\documents\\projects\\personal\\sharpcache\\core\\inmemorystore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CFD78A4-A458-4107-9DC7-A2E31B96804D}|SharpCache.csproj|solutionrelative:core\\inmemorystore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8CFD78A4-A458-4107-9DC7-A2E31B96804D}|SharpCache.csproj|c:\\users\\gokul_balachandran\\documents\\projects\\personal\\sharpcache\\services\\commandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CFD78A4-A458-4107-9DC7-A2E31B96804D}|SharpCache.csproj|solutionrelative:services\\commandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8CFD78A4-A458-4107-9DC7-A2E31B96804D}|SharpCache.csproj|c:\\users\\gokul_balachandran\\documents\\projects\\personal\\sharpcache\\controllers\\commandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8CFD78A4-A458-4107-9DC7-A2E31B96804D}|SharpCache.csproj|solutionrelative:controllers\\commandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8CFD78A4-A458-4107-9DC7-A2E31B96804D}|SharpCache.csproj|c:\\users\\gokul_balachandran\\documents\\projects\\personal\\sharpcache\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CFD78A4-A458-4107-9DC7-A2E31B96804D}|SharpCache.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8CFD78A4-A458-4107-9DC7-A2E31B96804D}|SharpCache.csproj|c:\\users\\gokul_balachandran\\documents\\projects\\personal\\sharpcache\\interfaces\\icommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CFD78A4-A458-4107-9DC7-A2E31B96804D}|SharpCache.csproj|solutionrelative:interfaces\\icommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8CFD78A4-A458-4107-9DC7-A2E31B96804D}|SharpCache.csproj|c:\\users\\gokul_balachandran\\documents\\projects\\personal\\sharpcache\\sharpcache.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{8CFD78A4-A458-4107-9DC7-A2E31B96804D}|SharpCache.csproj|solutionrelative:sharpcache.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8CFD78A4-A458-4107-9DC7-A2E31B96804D}|SharpCache.csproj|c:\\users\\gokul_balachandran\\documents\\projects\\personal\\sharpcache\\sharpcache.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{8CFD78A4-A458-4107-9DC7-A2E31B96804D}|SharpCache.csproj|solutionrelative:sharpcache.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{8CFD78A4-A458-4107-9DC7-A2E31B96804D}|SharpCache.csproj|c:\\users\\gokul_balachandran\\documents\\projects\\personal\\sharpcache\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CFD78A4-A458-4107-9DC7-A2E31B96804D}|SharpCache.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,102 +34,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "wal.log",
-              "DocumentMoniker": "C:\\Users\\Gokul_Balachandran\\Documents\\projects\\personal\\SharpCache\\Data\\wal.log",
-              "RelativeDocumentMoniker": "Data\\wal.log",
-              "ToolTip": "C:\\Users\\Gokul_Balachandran\\Documents\\projects\\personal\\SharpCache\\Data\\wal.log",
-              "RelativeToolTip": "Data\\wal.log",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-05-11T12:02:57.301Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WriteAheadLog.cs",
-              "DocumentMoniker": "C:\\Users\\Gokul_Balachandran\\Documents\\projects\\personal\\SharpCache\\Persistance\\WriteAheadLog.cs",
-              "RelativeDocumentMoniker": "Persistance\\WriteAheadLog.cs",
-              "ToolTip": "C:\\Users\\Gokul_Balachandran\\Documents\\projects\\personal\\SharpCache\\Persistance\\WriteAheadLog.cs",
-              "RelativeToolTip": "Persistance\\WriteAheadLog.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T12:02:42.156Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HashingHelper.cs",
-              "DocumentMoniker": "C:\\Users\\Gokul_Balachandran\\Documents\\projects\\personal\\SharpCache\\Utilities\\HashingHelper.cs",
-              "RelativeDocumentMoniker": "Utilities\\HashingHelper.cs",
-              "ToolTip": "C:\\Users\\Gokul_Balachandran\\Documents\\projects\\personal\\SharpCache\\Utilities\\HashingHelper.cs",
-              "RelativeToolTip": "Utilities\\HashingHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T12:00:30.147Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "InMemoryStore.cs",
-              "DocumentMoniker": "C:\\Users\\Gokul_Balachandran\\Documents\\projects\\personal\\SharpCache\\Core\\InMemoryStore.cs",
-              "RelativeDocumentMoniker": "Core\\InMemoryStore.cs",
-              "ToolTip": "C:\\Users\\Gokul_Balachandran\\Documents\\projects\\personal\\SharpCache\\Core\\InMemoryStore.cs",
-              "RelativeToolTip": "Core\\InMemoryStore.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T12:00:11.901Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CommandController.cs",
-              "DocumentMoniker": "C:\\Users\\Gokul_Balachandran\\Documents\\projects\\personal\\SharpCache\\Controllers\\CommandController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CommandController.cs",
-              "ToolTip": "C:\\Users\\Gokul_Balachandran\\Documents\\projects\\personal\\SharpCache\\Controllers\\CommandController.cs",
-              "RelativeToolTip": "Controllers\\CommandController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T11:59:32.813Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Startup.cs",
-              "DocumentMoniker": "C:\\Users\\Gokul_Balachandran\\Documents\\projects\\personal\\SharpCache\\Startup.cs",
-              "RelativeDocumentMoniker": "Startup.cs",
-              "ToolTip": "C:\\Users\\Gokul_Balachandran\\Documents\\projects\\personal\\SharpCache\\Startup.cs",
-              "RelativeToolTip": "Startup.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T11:54:53.823Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SharpCache",
-              "DocumentMoniker": "C:\\Users\\Gokul_Balachandran\\Documents\\projects\\personal\\SharpCache\\SharpCache.csproj",
-              "RelativeDocumentMoniker": "SharpCache.csproj",
-              "ToolTip": "C:\\Users\\Gokul_Balachandran\\Documents\\projects\\personal\\SharpCache\\SharpCache.csproj",
-              "RelativeToolTip": "SharpCache.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-11T11:52:48.989Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -161,16 +62,79 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "SharpCache.http",
-              "DocumentMoniker": "C:\\Users\\Gokul_Balachandran\\Documents\\projects\\personal\\SharpCache\\SharpCache.http",
-              "RelativeDocumentMoniker": "SharpCache.http",
-              "ToolTip": "C:\\Users\\Gokul_Balachandran\\Documents\\projects\\personal\\SharpCache\\SharpCache.http",
-              "RelativeToolTip": "SharpCache.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-05-11T11:43:46.603Z",
+              "DocumentIndex": 0,
+              "Title": "CommandResult.cs",
+              "DocumentMoniker": "C:\\Users\\Gokul_Balachandran\\Documents\\projects\\personal\\SharpCache\\Models\\CommandResult.cs",
+              "RelativeDocumentMoniker": "Models\\CommandResult.cs",
+              "ToolTip": "C:\\Users\\Gokul_Balachandran\\Documents\\projects\\personal\\SharpCache\\Models\\CommandResult.cs",
+              "RelativeToolTip": "Models\\CommandResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T13:11:24.562Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICommandService.cs",
+              "DocumentMoniker": "C:\\Users\\Gokul_Balachandran\\Documents\\projects\\personal\\SharpCache\\Interfaces\\ICommandService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ICommandService.cs",
+              "ToolTip": "C:\\Users\\Gokul_Balachandran\\Documents\\projects\\personal\\SharpCache\\Interfaces\\ICommandService.cs",
+              "RelativeToolTip": "Interfaces\\ICommandService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T12:57:46.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gokul_Balachandran\\Documents\\projects\\personal\\SharpCache\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Gokul_Balachandran\\Documents\\projects\\personal\\SharpCache\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T12:52:23.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CommandService.cs",
+              "DocumentMoniker": "C:\\Users\\Gokul_Balachandran\\Documents\\projects\\personal\\SharpCache\\Services\\CommandService.cs",
+              "RelativeDocumentMoniker": "Services\\CommandService.cs",
+              "ToolTip": "C:\\Users\\Gokul_Balachandran\\Documents\\projects\\personal\\SharpCache\\Services\\CommandService.cs",
+              "RelativeToolTip": "Services\\CommandService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T12:34:59.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CommandController.cs",
+              "DocumentMoniker": "C:\\Users\\Gokul_Balachandran\\Documents\\projects\\personal\\SharpCache\\Controllers\\CommandController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CommandController.cs",
+              "ToolTip": "C:\\Users\\Gokul_Balachandran\\Documents\\projects\\personal\\SharpCache\\Controllers\\CommandController.cs",
+              "RelativeToolTip": "Controllers\\CommandController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T12:21:40.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SharpCache.csproj",
+              "DocumentMoniker": "C:\\Users\\Gokul_Balachandran\\Documents\\projects\\personal\\SharpCache\\SharpCache.csproj",
+              "RelativeDocumentMoniker": "SharpCache.csproj",
+              "ToolTip": "C:\\Users\\Gokul_Balachandran\\Documents\\projects\\personal\\SharpCache\\SharpCache.csproj",
+              "RelativeToolTip": "SharpCache.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-11T13:06:47.502Z"
             }
           ]
         },

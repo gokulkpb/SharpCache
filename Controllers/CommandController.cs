@@ -1,43 +1,36 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using SharpCache.Interfaces;
+using SharpCache.Services;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
 namespace SharpCache.Controllers
 {
-	[Route("api/[controller]")]
+	[Route("sharpecache")]
 	[ApiController]
 	public class CommandController : ControllerBase
 	{
-		// GET: api/<CommandController>
-		[HttpGet]
-		public IEnumerable<string> Get()
+		private readonly ICommandService _commandService;
+		public CommandController(ICommandService commandService)
 		{
-			return new string[] { "value1", "value2" };
+			_commandService = commandService;
+		}
+		[HttpGet("/get")]
+		public ActionResult Get()
+		{
+			return Ok("Value");
 		}
 
-		// GET api/<CommandController>/5
-		[HttpGet("{id}")]
-		public string Get(int id)
+		[HttpPost("/command")]
+		public IActionResult Set(string command)
 		{
-			return "value";
+			var result = _commandService.ProcessCommand(command);
+			if(result.Success)
+				return Ok(result.Message);
+			return BadRequest(result.Message);
+				
 		}
 
-		// POST api/<CommandController>
-		[HttpPost]
-		public void Post([FromBody] string value)
-		{
-		}
-
-		// PUT api/<CommandController>/5
-		[HttpPut("{id}")]
-		public void Put(int id, [FromBody] string value)
-		{
-		}
-
-		// DELETE api/<CommandController>/5
-		[HttpDelete("{id}")]
-		public void Delete(int id)
-		{
-		}
+		
 	}
 }
